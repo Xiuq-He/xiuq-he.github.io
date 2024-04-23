@@ -4,22 +4,20 @@ layout: page
 
 # About Me
 
-<img src="/images/Xiuqiang.png">
-
 I am a postdoctoral researcher at ETH Zürich since November 2021, working in the Automatic Control Laboratory with [Prof. Florian Dörfler](https://people.ee.ethz.ch/~floriand/index.html). I received my Ph.D. degree in Control Science and Engineering from Tsinghua University in 2021, supervised by [Prof. Hua Geng](https://www.au.tsinghua.edu.cn/info/1094/1517.htm), and my B.S. degree from Tsinghua University in 2016. My research interests include stability issues of future power systems, in particular in modeling, stability analysis, and control of renewable energy resources. I was a recipient of the Beijing Outstanding Graduates Award and the Outstanding Doctoral Dissertation Award of Tsinghua University. You can find further details in my CV.
 
 
 ## Education
 
 - **Ph.D. in Control Science and Engineering**  
-  _Department of Automation, Tsinghua University, China_  
+  _Tsinghua University, China_  
   _August 2016 – June 2021_  
   Dissertation: Research on Synchronization Issues in Power Systems with High Penetration of Power Electronics  
   [Link to Dissertation](https://doi.org/10.13140/RG.2.2.32901.93928)  
   Advisor: [Prof. Hua Geng](https://www.au.tsinghua.edu.cn/info/1079/3102.htm)
 
 - **B.S. in Automation**  
-  _Department of Automation, Tsinghua University, China_  
+  _Tsinghua University, China_  
   _August 2012 – June 2016_
 
 ---
