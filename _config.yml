@@ -29,14 +29,10 @@ links:
 #    url: /teams/
   - title: Publications
     url: /publications/
-  - title: Awards
-    url: /awards/
   - title: Talks
     url: /talks/
-  - title: Supervision
-    url: /supervision/
-  - title: Teaching
-    url: /teaching/
+  - title: Misc.
+    url: /misc/
     
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/Zurich

@@ -1,9 +1,24 @@
 ---
 layout: page
-permalink: /awards/index.html
-title: Awards
+permalink: /misc/index.html
+title: Misc.
 ---
 
+## Supervision
+
+- PhD Project: Control of dynamic virtual power plants, Verena Häberle, co-supervised with Dr. Linbin Huang, Prof. Eduardo Prieto-Araujo, and Prof. Florian Dörfler, 2022 – present.
+- Master Project: Complex frequency control of dynamic virtual power plants, Roger Domingo-Enrich, co-supervised with Verena Häberle, Spring 2023.
+- Semester Project: Aggregated modeling of grid-forming converters with complex droop control, Martin Pedersen, co-supervised with Verena Häberle, Spring 2023.
+- Semester Project: Stable current-limiting control for grid-forming converters, Maitraya Avadhut Desai, co-supervised with Linbin Huang, Fall 2022.
+
+## Teaching
+
+- Control Systems (Prof. Florian Dörfler), Teaching Assistant (Fall Semester 2022, Spring Semester 2023, Fall Semester 2023, Spring Semester 2024), ETH Zurich.
+- Control Systems I (Prof. Florian Dörfler), Teaching Assistant (Spring Semester 2022), ETH Zurich.
+- Fundamentals of Analog Electronics Technology (Prof. Hua GENG), Teaching Assistant (for three semesters), Tsinghua University.
+- Electric Drive and Motion Control (Prof. Geng YANG), Teaching Assistant (for two semesters), Tsinghua University.
+
+## Awards
 
 - First Prize of Science and Technology Progress Award of China Power Supply Society
   Awarded by the China Power Supply Society, Nov. 2023
