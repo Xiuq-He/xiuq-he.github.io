@@ -33,8 +33,10 @@ links:
     url: /awards/
   - title: Talks
     url: /talks/
-  - title: Miscellaneous
-    url: /miscellaneous/
+  - title: Supervision
+    url: /supervision/
+  - title: Teaching
+    url: /teaching/
     
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/Zurich
