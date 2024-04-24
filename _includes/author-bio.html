@@ -2,22 +2,20 @@
 
 <!-- <h4>{{ site.owner.name }}</h4> -->
 
-.divcss5 p{font-style}
 
 <p>{{ site.owner.bio }}</p>
 
 
+{% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;font-style:normal"><img src="/images/logo/email.png" width="12.0" height="12.0"> {{site.owner.email}}</i></p>{% endif %}
 
-{% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;font-style:normal"><img src="/images/logo/email.png" width="12.0" height="12.0"><i style="font-style:normal"> {{site.owner.email}}</i></p>{% endif %}
+{% if site.owner.employer %}<p style="text-indent:0;font-style:normal"><img src="/images/logo/institute-icon.jpg" width="12.0" height="12.0"> {{site.owner.employer}}</p>{% endif %}
 
-{% if site.owner.employer %}<p style="text-indent:0;"><img src="/images/logo/institute-icon.jpg" width="12.0" height="12.0"> {{site.owner.employer}}</p>{% endif %}
+{% if site.owner.cv %}<p style="text-indent:0;font-style:normal;"><a href="{{ site.owner.cv }}"><img src="/images/logo/icons8-cv-100.png" width="12.0" height="12.0"> CV [PDF]</a></p>{% endif %}
 
-{% if site.owner.cv %}<p style="text-indent:0; font-weight: normal;"><a href="{{ site.owner.cv }}"><img src="/images/logo/icons8-cv-100.png" width="12.0" height="12.0">  CV [PDF]</a></p>{% endif %}
+{% if site.owner.scholar%}<p style="text-indent:0;font-style:normal;"><a href="{{ site.owner.scholar}}"><img src="/images/logo/google-scholar.png" width="12.0" height="12.0"> Google Scholar</a></p>{% endif %}
 
-{% if site.owner.scholar%}<p style="text-indent:0;"><a href="{{ site.owner.scholar}}"><img src="/images/logo/google-scholar.png" width="12.0" height="12.0">  Google Scholar</a></p>{% endif %}
+{% if site.owner.researchgate %}<p style="text-indent:0;font-style:normal;"><a href="{{ site.owner.researchgate}}"><img src="/images/logo/icons8-rg.png" width="12.0" height="12.0"> ResearchGate</a></p>{% endif %}
 
-{% if site.owner.researchgate %}<p style="text-indent:0;"><a href="{{ site.owner.researchgate}}"><img src="/images/logo/icons8-rg.png" width="12.0" height="12.0">  ResearchGate</a></p>{% endif %}
-
-{% if site.owner.linkedin %}<p style="text-indent:0;"><a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><img src="/images/logo/linkedin.jpg" width="12.0" height="12.0">  LinkedIn</a></p>{% endif %}
+{% if site.owner.linkedin %}<p style="text-indent:0;font-style:normal;"><a href="https://linkedin.com/in/{{ site.owner.linkedin }}"><img src="/images/logo/linkedin.jpg" width="12.0" height="12.0"> LinkedIn</a></p>{% endif %}
 
 <!-- Lastly modified in 2024/04/24 -->
