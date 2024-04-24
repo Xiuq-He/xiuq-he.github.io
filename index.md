@@ -9,14 +9,14 @@ I am a postdoctoral researcher at ETH Zürich since November 2021, working at th
 
 - **Ph.D. in Control Science and Engineering**  
   _Tsinghua University, China_  
-  August 2016 – June 2021
+  August 2016 – June 2021  
   Dissertation: Research on Synchronization Issues in Power Systems with High Penetration of Power Electronics  
-  [Dissertation PDF](https://doi.org/10.13140/RG.2.2.32901.93928)  
+  [Dissertation full-text](https://doi.org/10.13140/RG.2.2.32901.93928)  
   Advisor: [Prof. Hua Geng](https://www.au.tsinghua.edu.cn/info/1079/3102.htm)
 
 - **B.S. in Automation**  
   _Tsinghua University, China_  
-  August 2012 – June 2016
+  August 2012 – June 2016  
 
 
 ### Research Interests
