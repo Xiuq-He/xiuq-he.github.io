@@ -25,17 +25,17 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 links:
   - title: About Me
     url: /
-  - title: Teams
-    url: /teams/
+#  - title: Teams
+#    url: /teams/
   - title: Publications
     url: /publications/
   - title: Awards
     url: /awards/
-  - title: Hobbies
-    url: /hobbies/
-  - title: Blogs
-    url: /blogs/
-
+  - title: Talks
+    url: /talks/
+  - title: Miscs
+    url: /miscs/
+    
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Europe/Zurich
 future: true
