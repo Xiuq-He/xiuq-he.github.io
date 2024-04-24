@@ -4,51 +4,54 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 8th Jan 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
 
-## Scholarships
+- First Prize of Science and Technology Progress Award of China Power Supply Society
+  Awarded by the China Power Supply Society Nov. 2023
 
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 12 undergraduates are selected around the world
-- Aug 2023：**FEPG Scholarship** ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：**XiamenAir Scholarship** ($600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2024：First Prize Scholarship of FZU ($2100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth<br>
+- Outstanding Doctoral Dissertation (Nomination) of China Power Supply Society
+  Awarded by the China Power Supply Society Apr. 2023
 
-## Competitions (Selected)
+- Star Reviewer of IEEE Transactions on Energy Conversion
+  Awarded by the IEEE Transactions on Energy Conversion Editorial Broad Dec. 2021
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University 2022<br>
+- Tsinghua University Outstanding Doctoral Dissertation Top 10%,
+  awarded by Tsinghua University Jun. 2021
 
-## Honors
+- Beijing Outstanding Graduates Top 5%,
+  awarded by the Beijing Ministry of Education Jun. 2021
 
-- Dec 2023：AAAI 2024 UC Scholar<br>Mentor: Tozammel Hossain, University of North Texas
-- Aug 2023：FEPG Scholarship<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：XiamenAir Scholarship<br>Funded by Xiamen Airline, China
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- *<font color='gray'>July 2023：Nomination for Baosteel Scholarship</font>*
-- *<font color='gray'>Sep 2022：Nomination for China National Scholarship</font>*
-- *<font color='gray'>June 2022：Nomination for China Telecom Scholarship</font>*<br>
+- China National Scholarship
+  Awarded by the Chinese Ministry of Education Dec. 2019
 
-## Services
+- Outstanding Reviewer of IEEE Transactions on Sustainable Energy
+  Awarded by the IEEE Transactions on Sustainable Energy Editorial Broad Feb. 2019
 
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+- The Second Prize, the First Beijing’s Universities AI Academic Forum Award
+  Awarded by the Beijing’s Universities AI Academic Forum Committee Mar. 2019
+
+- The First Class Fellowship of Tsinghua University Graduate Student Professional Practice
+  Awarded by the Graduate School of Tsinghua University Dec. 2018
+
+- China National Scholarship
+  Awarded by the Chinese Ministry of Education Nov. 2018
+
+- IEEE PEAC Conference Excellent Paper Award
+  Awarded by the IEEE PEAC Committee Nov. 2018
+
+- IEEE PEAC Conference Best Presenter Award
+  Awarded by the IEEE PEAC Committee Nov. 2018
+
+- The 22nd CPSS Annual Conference Excellent Paper Award
+  Awarded by the China Power Supply Society Nov. 2017
+
+- The 22nd CPSS Annual Conference Best Presenter Award
+  Awarded by the China Power Supply Society Nov. 2017
+
+- The Third Prize, Tsinghua University Student Laboratory Construction Award
+  Awarded by the Laboratory and Equipment Department, Tsinghua University Mar. 2017
+
+- Tsinghua University Academic Scholarship
+  Awarded by Tsinghua University Oct. 2014
+
+- HAGE Scholarship
+  Awarded by the Department of Automation, Tsinghua University Oct. 2014

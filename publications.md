@@ -6,9 +6,9 @@ title: Publications
 
 ### Topic I: Grid-Forming/-Following Control and Stability
 
+- <u>X. He</u>, M. A. Desai, L. Huang, and F. Dörfler, “Cross-forming control and fault current limiting for grid-forming inverters,” 2024, to be submitted, [link](https://arxiv.org/abs/2404.13376).
 - <u>X. He</u>, L. Huang, I. Subotić, V. Häberle, and F. Dörfler, “Quantitative stability conditions for grid-forming converters with complex droop control,” *IEEE Trans. Power Electron.*, 2024, [link](https://arxiv.org/abs/2310.09933).
 - <u>X. He</u> and F. Dörfler, “Passivity and decentralized stability conditions for grid-forming converters,” *IEEE Trans. Power Syst.*, pp. 1–4, 2024, [link](https://doi.org/10.1109/TPWRS.2024.3360707).
-- <u>X. He</u>, M. A. Desai, L. Huang, and F. Dörfler, “Cross-forming control and fault current limiting for grid-forming inverters,” 2024, to be submitted, [link](https://arxiv.org/abs/2404.13376).
 - M. A. Desai, <u>X. He</u>, L. Huang, and F. Dörfler, “Saturation-informed current-limiting control for grid-forming converters,” *Electr. Power Syst. Res.*, 2024, [link](https://arxiv.org/abs/2404.07682).
 - <u>X. He</u>, V. Häberle, I. Subotić, and F. Dörfler, “Nonlinear stability of complex droop control in converter-based power systems,” *IEEE Control Syst. Lett.*, vol. 7, pp. 1327–1332, 2023, [link](https://doi.org/10.1109/LCSYS.2023.3236276).
 - <u>X. He</u>, V. Häberle, and F. Dörfler, “Complex-frequency synchronization of converter-based power systems,” 2022, submitted to IEEE Trans. Control Netw. Syst, [link](https://arxiv.org/abs/2208.13860).
@@ -23,7 +23,6 @@ title: Publications
 - <u>X. He</u>, H. Geng, and S. Ma, “Transient stability analysis of grid-tied converters considering PLL’s nonlinearity,” *CPSS Trans. Power Electron. Appl.*, vol. 4, no. 1, pp. 40–49, 2019, [link](https://doi.org/10.24295/CPSSTPEA.2019.00005).
 - <u>X. He</u>, H. Geng, and G. Yang, “Reinvestigation of single-phase FLLs,” *IEEE Access*, vol. 7, pp. 13178–13188, 2019, [link](https://doi.org/10.1109/ACCESS.2019.2891973).
 - <u>X. He</u>, H. Geng, and G. Yang, “A generalized design framework of notch filter based frequency-locked loop for three-phase grid voltage,” *IEEE Trans. Ind. Electron.*, vol. 65, no. 9, pp. 7072–7084, 2018, [link](https://doi.org/10.1109/TIE.2017.2784413).
-  <br>
 
 ### Topic II: Dynamic Ancillary Services of Inverter-Based Resources
 
