@@ -33,5 +33,3 @@ My research area interfaces power system dynamics, stability, and control, inv
 - **April 2024：**Our work [Saturation-Informed Current-Limiting Control for Grid-Forming Converters](https://arxiv.org/abs/2404.07682) has been accepted by PSCC 2024!
 - **April 2024：**Our patent application *Method and a Controller for Controlling a Grid Forming Converter* is officially filed (EP priority)!
 - **April 2024：**This personal academic website is officially accessible online!
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C4vd_jOqJ4D01aPF8C3RIrWPi9bKn1bnY_IAfq1rV-U&cl=ffffff&w=a"></script>
