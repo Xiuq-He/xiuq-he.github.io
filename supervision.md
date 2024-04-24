@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Supervision/index.html
+permalink: /supervision/index.html
 title: Supervision
 ---
 

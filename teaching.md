@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Teaching/index.html
+permalink: /teaching/index.html
 title: Teaching
 ---
 
