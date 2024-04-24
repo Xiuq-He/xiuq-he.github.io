@@ -4,9 +4,7 @@
 
 <p>{{ site.owner.bio }}</p>
 
-{% if site.owner.location %}<li style="text-indent:0;"><i class="fa-solid fa-location-dot icon-pad-right"></i>{{ site.owner.location }}</li>{% endif %}
-
-{% if site.owner.employer %}<p style="text-indent:0;"><a href="{{ site.owner.cv }}"><img src="/images/logo/icons8-cv-100.png" width="16.5" height="16.5"> CV</a></p>{% endif %}
+{% if site.owner.employer %}<p style="text-indent:0;"><i class="fa fa-solid fa-building-columns icon-pad-right" aria-hidden="true"></i> {{site.owner.employer}}</p>{% endif %}
 
 {% if site.owner.email %}<p style="text-indent:0;margin-top:1.5em;"><a href="mailto:{{ site.owner.email }}" target="_blank" class="icon-mail"> Email1 </a></p>{% endif %}
 
@@ -14,7 +12,7 @@
 
 {% if site.owner.scholar%}<p style="text-indent:0;"><a href="{{ site.owner.scholar}}"><i class="ai ai-google-scholar icon-pad-right"></i> Google Scholar</a></p>{% endif %}
 
-{% if site.owner.researchgate %}<p style="text-indent:0;"><a href="{{ site.owner.researchgate}}"><i class="fab fa-fw fa-researchgate icon-pad-right" aria-hidden="true"></i> ResearchGate</a></p>{% endif %}
+{% if site.owner.researchgate %}<p style="text-indent:0;"><a href="{{ site.owner.researchgate}}"><img src="/images/logo/icons8-rg.png" width="16.5" height="16.5"></i> ResearchGate</a></p>{% endif %}
 
 {% if site.owner.linkedin %}<p style="text-indent:0;"><a href="https://linkedin.com/in/{{ site.owner.linkedin }}" class="icon-linkedin"> LinkedIn</a></p>{% endif %}
 
