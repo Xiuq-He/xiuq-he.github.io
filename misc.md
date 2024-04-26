@@ -23,8 +23,8 @@ title: Misc.
 - **First Prize of Science and Technology Progress Award of China Power Supply Society**, awarded by the China Power Supply Society, Nov. 2023
 - **Outstanding Doctoral Dissertation (Nomination) of China Power Supply Society**, awarded by the China Power Supply Society, Apr. 2023
 - Star Reviewer of IEEE Transactions on Energy Conversion, awarded by the IEEE Transactions on Energy Conversion Editorial Broad, Dec. 2021
-- **Tsinghua University Outstanding Doctoral Dissertation**, Top 10%,, awarded by Tsinghua University, Jun. 2021
-- **Beijing Outstanding Graduates**, Top 5%,, awarded by the Beijing Ministry of Education, Jun. 2021
+- **Tsinghua University Outstanding Doctoral Dissertation**, Top 10%, awarded by Tsinghua University, Jun. 2021
+- **Beijing Outstanding Graduates**, Top 5%, awarded by the Beijing Ministry of Education, Jun. 2021
 - China National Scholarship, awarded by the Chinese Ministry of Education, Dec. 2019
 - Outstanding Reviewer of IEEE Transactions on Sustainable Energy, awarded by the IEEE Transactions on Sustainable Energy Editorial Broad, Feb. 2019
 - The Second Prize, the First Beijing’s Universities AI Academic Forum Award, awarded by the Beijing’s Universities AI Academic Forum Committee, Mar. 2019
