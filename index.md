@@ -26,7 +26,7 @@ My research area interfaces power system dynamics, stability, and control, inv
 - Grid-forming control and dynamic ancillary services
 - Generic modeling of converter-interfaced generation for power system simulation studies
 
-At current stage, my academic aspiration is to empower the stability and control of future power systems through innovative applications of control theory, bridging the gap in this regard between the fileds of control, power electronics, and power system communities.
+At current stage, my academic aspiration is to empower the stability and control of future power systems through innovative applications of control theory, bridging the gap in this regard between the fileds of control, power electronics, and power systems.
 
 ### News and Updates
 
