@@ -31,7 +31,7 @@ At current stage, my academic aspiration is to empower the stability and control
 ### News and Updates
 
 - **May 2024:** Our paper entitled [Quantitative Stability Conditions for Grid-Forming Converters With Complex Droop Control](https://arxiv.org/abs/2310.09933) is accepted by IEEE TPEL.
-- **April 2024:** Our paper entitled [Cross-Forming Control and Fault Current Limiting for Grid-Forming Inverters](https://arxiv.org/abs/2404.13376) is online, where we proposed a "cross-forming" (voltage angle forming and current magnitude forming) control concept, a novel perspective for inverter control, different from classical "grid-forming" (voltage-forming) and "grid-following" (current-forming) paradigms!
-- **April 2024:** Our paper entitled [Saturation-Informed Current-Limiting Control for Grid-Forming Converters](https://arxiv.org/abs/2404.07682) has been accepted by PSCC 2024!
+- **April 2024:** Our preprint entitled [Cross-Forming Control and Fault Current Limiting for Grid-Forming Inverters](https://arxiv.org/abs/2404.13376) is online, where we proposed a "cross-forming" (voltage angle forming and current magnitude forming) control concept, a novel perspective for inverter control, different from classical "grid-forming" (voltage-forming) and "grid-following" (current-forming) paradigms!
+- **April 2024:** Our paper entitled [Saturation-Informed Current-Limiting Control for Grid-Forming Converters](https://arxiv.org/abs/2404.07682) has been accepted by PSCC 2024, which will be published on Electric Power Systems Research.
 - **April 2024:** Our patent application *Method and a Controller for Controlling a Grid Forming Converter* is officially filed (EP priority).
 - **April 2024:** This personal academic website is officially accessible online!
