@@ -7,8 +7,8 @@ title: Publications
 ### Topic I: Grid-Forming/-Following Control and Stability
 
 - **X. He**, M. A. Desai, L. Huang, and F. Dörfler, “Cross-forming control and fault current limiting for grid-forming inverters,” 2024, submitted to *IEEE Trans Power Electron.*, [link](https://arxiv.org/abs/2404.13376).
-- **X. He**, L. Huang, I. Subotić, V. Häberle, and F. Dörfler, “Quantitative stability conditions for grid-forming converters with complex droop control,” *IEEE Trans. Power Electron.*, pp. 1–19, 2024, [link](https://doi.org/10.1109/TPEL.2024.3404251).
-- **X. He** and F. Dörfler, “Passivity and decentralized stability conditions for grid-forming converters,” *IEEE Trans. Power Syst.*, pp. 1–4, 2024, [link](https://doi.org/10.1109/TPWRS.2024.3360707).
+- **X. He**, L. Huang, I. Subotić, V. Häberle, and F. Dörfler, “Quantitative stability conditions for grid-forming converters with complex droop control,” *IEEE Trans. Power Electron.*, vol. 39, no. 9, pp. 10834–10852, 2024, [link](https://doi.org/10.1109/TPEL.2024.3404251).
+- **X. He** and F. Dörfler, “Passivity and decentralized stability conditions for grid-forming converters,” *IEEE Trans. Power Syst.*, vol. 39, no. 3, pp. 5447–5450, 2024, [link](https://doi.org/10.1109/TPWRS.2024.3360707).
 - M. A. Desai, **X. He**, L. Huang, and F. Dörfler, “Saturation-informed current-limiting control for grid-forming converters,” *Electr. Power Syst. Res.*, vol. 234, p. 110746, 2024, [link](https://doi.org/10.1016/j.epsr.2024.110746).
 - **X. He**, V. Häberle, and F. Dörfler, “Complex-frequency synchronization of converter-based power systems,” *IEEE Trans. Control Netw. Syst.*, pp. 1–12, 2024, [link](https://doi.org/10.1109/TCNS.2024.3420983).
 - **X. He**, V. Häberle, I. Subotić, and F. Dörfler, “Nonlinear stability of complex droop control in converter-based power systems,” *IEEE Control Syst. Lett.*, vol. 7, pp. 1327–1332, 2023, [link](https://doi.org/10.1109/LCSYS.2023.3236276).
