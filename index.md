@@ -30,6 +30,7 @@ At current stage, my academic aspiration is to empower the stability and control
 
 ### News and Updates
 
+- **May 2024:** Our paper entitled [Optimal dynamic ancillary services provision based on local power grid perception](https://arxiv.org/abs/2310.09933) is accepted by IEEE TPWRS.
 - **June 2024:** I organized the joint group meeting of IEC SC 8A JWG 4 & WG 8 & ahG 3 at ETH Zurich.
 - **May 2024:** Our paper entitled [Complex-Frequency Synchronization of Converter-Based Power Systems](https://arxiv.org/abs/2208.13860) is accepted by IEEE TCNS!
 - **May 2024:** Our paper entitled [Quantitative Stability Conditions for Grid-Forming Converters With Complex Droop Control](https://arxiv.org/abs/2310.09933) is accepted by IEEE TPEL.
