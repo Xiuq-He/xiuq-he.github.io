@@ -10,7 +10,7 @@ title: Publications
 - **X. He**, L. Huang, I. Subotić, V. Häberle, and F. Dörfler, “Quantitative stability conditions for grid-forming converters with complex droop control,” *IEEE Trans. Power Electron.*, vol. 39, no. 9, pp. 10834–10852, 2024, [link](https://doi.org/10.1109/TPEL.2024.3404251).
 - **X. He** and F. Dörfler, “Passivity and decentralized stability conditions for grid-forming converters,” *IEEE Trans. Power Syst.*, vol. 39, no. 3, pp. 5447–5450, 2024, [link](https://doi.org/10.1109/TPWRS.2024.3360707).
 - M. A. Desai, **X. He**, L. Huang, and F. Dörfler, “Saturation-informed current-limiting control for grid-forming converters,” *Electr. Power Syst. Res.*, vol. 234, p. 110746, 2024, [link](https://doi.org/10.1016/j.epsr.2024.110746).
-- **X. He**, V. Häberle, and F. Dörfler, “Complex-frequency synchronization of converter-based power systems,” *IEEE Trans. Control Netw. Syst.*, pp. 1–12, 2024, [link](https://doi.org/10.1109/TCNS.2024.3420983).
+- **X. He**, V. Häberle, and F. Dörfler, “Complex-frequency synchronization of converter-based power systems,” *IEEE Trans. Control Netw. Syst.*, in press, 2024, [link](https://doi.org/10.1109/TCNS.2024.3420983).
 - **X. He**, V. Häberle, I. Subotić, and F. Dörfler, “Nonlinear stability of complex droop control in converter-based power systems,” *IEEE Control Syst. Lett.*, vol. 7, pp. 1327–1332, 2023, [link](https://doi.org/10.1109/LCSYS.2023.3236276).
 - H. Geng, C. He, Y. Liu, **X. He**, and M. Li, “Overview on transient synchronization stability of renewable-rich power systems,” *High Voltage Engineering*, vol. 48, no. 9, pp. 3367–3383, 2022, [link](https://doi.org/10.13336/j.1003-6520.hve.20221231). (In Chinese)
 - C. He, **X. He**, H. Geng, H. Sun, and S. Xu, “Transient stability of low-inertia power systems with inverter-based generation,” *IEEE Trans. Energy Convers.*, vol. 37, no. 4, pp. 2903–2912, 2022, [link](https://doi.org/10.1109/TEC.2022.3185623). (Best Paper for the period 2021-2022)
@@ -26,10 +26,10 @@ title: Publications
 
 ### Topic II: Dynamic Ancillary Services of Inverter-Based Resources
 
+- **X. He**, J. Duarte, V. Häberle, and F. Dörfler, “Grid-forming control of modular dynamic virtual power plants,” in preparation, 2024.
 - V. Häberle, **X. He**, L. Huang, E. Prieto-Araujo, and F. Dörfler, “Optimal dynamic ancillary services provision based on local power grid perception,” *IEEE Trans. Power Syst*, in press, 2024, [link](https://doi.org/10.1109/TPWRS.2024.3447410).
-- R. Domingo-Enrich, **X. He**, V. Häberle, and F. Dörfler, “Dynamic complex-frequency control of grid-forming converters,” 2024, submitted to IECON 2024, [link](https://arxiv.org/abs/2404.10071).
-- V. Häberle, L. Huang, **X. He**, E. Prieto-Araujo, and F. Dörfler, “Dynamic ancillary services: From grid codes to transfer function-based converter control,” *Electr. Power Syst. Res.*, vol. 234, p.
-110760, 2024, [link](https://doi.org/10.1016/j.epsr.2024.110760).
+- R. Domingo-Enrich, **X. He**, V. Häberle, and F. Dörfler, “Dynamic complex-frequency control of grid-forming converters,” in *Proc. IECON 2024*, [link](https://arxiv.org/abs/2404.10071).
+- V. Häberle, L. Huang, **X. He**, E. Prieto-Araujo, and F. Dörfler, “Dynamic ancillary services: From grid codes to transfer function-based converter control,” *Electr. Power Syst. Res.*, vol. 234, p. 110760, 2024, [link](https://doi.org/10.1016/j.epsr.2024.110760).
 - V. Häberle, L. Huang, **X. He**, R. S. Smith, and F. Dörfler, “MIMO grid impedance identification of three-phase power systems: Parametric vs. nonparametric approaches,” in *Proc. 62nd IEEE Conference on Decision and Control*, 2023, [link](https://doi.org/10.1109/CDC49753.2023.10383646).
 - V. Häberle, A. Tayyebi, **X. He**, E. Prieto-Araujo, and F. Dörfler, “Grid-forming and spatially distributed control design of dynamic virtual power plants,” *IEEE Trans. Smart Grid*, vol. 15, no. 2, pp. 1761–1777, 2024, [link](https://doi.org/10.1109/TSG.2023.3311481).
 - C. Feng, L. Huang, **X. He**, Y. Wang, F. Dörfler, and Q. Chen, “Joint oscillation damping and inertia provision service for converter-interfaced generation,” 2023, [link](https://arxiv.org/abs/2309.01321).
