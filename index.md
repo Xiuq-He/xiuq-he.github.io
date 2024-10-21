@@ -26,7 +26,7 @@ My research area interfaces power system dynamics, stability, control, optimiz
 - **Stability:** Modeling, stability analysis, and control of converter-dominated power systems
 - **Performance:** Fast frequency and voltage regulation, dynamic virtual power plants, and data-driven control
 - **Optimality:** Feedback optimization and game theory in renewable-rich power systems
--- **Standardization:** IEC generic modeling of inverter-based generation and next-generation grid codes
+- **Standardization:** IEC generic modeling of inverter-based generation and next-generation grid codes
 
 
 ### News and Updates
