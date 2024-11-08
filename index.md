@@ -3,7 +3,7 @@ layout: page
 ---
 
 Hello! Here is Xiuqiang HE (何秀强).
-I am a postdoctoral researcher at ETH Zürich since November 2021, working at the [Automatic Control Laboratory](https://control.ee.ethz.ch/) with [Prof. Florian Dörfler](https://people.ee.ethz.ch/~floriand/index.html). I received my Ph.D. degree in Control Science and Engineering from Tsinghua University in 2021, supervised by [Prof. Hua Geng](https://www.au.tsinghua.edu.cn/info/1094/1517.htm), and my B.S. degree from Tsinghua University in 2016. You can find further details in my [CV](https://xiuq-he.github.io/files/CV.pdf).
+I am a senior scientist at ETH Zürich, working at the [Automatic Control Laboratory](https://control.ee.ethz.ch/) with [Prof. Florian Dörfler](https://people.ee.ethz.ch/~floriand/index.html). From 2021 to 2024, I was a postdoctoral researcher at ETH Zürich. I received my Ph.D. degree in Control Science and Engineering from Tsinghua University in 2021, supervised by [Prof. Hua Geng](https://www.au.tsinghua.edu.cn/info/1094/1517.htm), and my B.S. degree from Tsinghua University in 2016. You can find further details in my [CV](https://xiuq-he.github.io/files/CV.pdf).
 
 
 ### Education
