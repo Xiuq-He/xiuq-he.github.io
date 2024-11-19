@@ -6,7 +6,7 @@ title: Publications
 
 ### Topic I: Grid-Forming/-Following Control and Stability
 
-- **X. He**, M. A. Desai, L. Huang, and F. Dörfler, “Cross-forming control and fault current limiting for grid-forming inverters,” 2024, submitted to *IEEE Trans Power Electron.*, [link](https://arxiv.org/abs/2404.13376).
+- **X. He**, M. A. Desai, L. Huang, and F. Dörfler, “Cross-forming control and fault current limiting for grid-forming inverters,” *IEEE Trans Power Electron.*, pp. 1-27, 2024, [link](https://doi.org/10.1109/TPEL.2024.3500885).
 - **X. He**, L. Huang, I. Subotić, V. Häberle, and F. Dörfler, “Quantitative stability conditions for grid-forming converters with complex droop control,” *IEEE Trans. Power Electron.*, vol. 39, no. 9, pp. 10834–10852, 2024, [link](https://doi.org/10.1109/TPEL.2024.3404251).
 - **X. He** and F. Dörfler, “Passivity and decentralized stability conditions for grid-forming converters,” *IEEE Trans. Power Syst.*, vol. 39, no. 3, pp. 5447–5450, 2024, [link](https://doi.org/10.1109/TPWRS.2024.3360707).
 - M. A. Desai, **X. He**, L. Huang, and F. Dörfler, “Saturation-informed current-limiting control for grid-forming converters,” *Electr. Power Syst. Res.*, vol. 234, p. 110746, 2024, [link](https://doi.org/10.1016/j.epsr.2024.110746).
