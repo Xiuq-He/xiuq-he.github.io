@@ -5,7 +5,7 @@ title: Talks
 ---
 
 - IECON 2024, *Dynamic complex-frequency control of grid-forming converters*, [slides](https://xiuq-he.github.io/files/slides/IECON2024_Xiuqiang_final.pdf), Nov. 2024, Chicago, USA.
-- Invited talk at EirGrid, *Grid-forming, grid-following, and cross-forming controls*, [slides](https://xiuq-he.github.io/files/slides/EirGrid2024_Xiuqiang_final), Aug. 2024, remote.
+- Invited talk at EirGrid, *Grid-forming, grid-following, and cross-forming controls*, [slides](https://xiuq-he.github.io/files/slides/EirGrid2024_Xiuqiang_final.pdf), Aug. 2024, remote.
 - The Third Champéry Power Conference, *Stability guarantees for grid-forming complex droop control*, [slides](https://champery.control.ee.ethz.ch/program), Feb. 2024, Champéry, Switzerland.
 - Invited talk at the 9th Workshop of Power Electronics Emerging Technologies, *Multivariable grid-forming control and nonlinear stability analysis*, [slides](https://www.researchgate.net/publication/375187051_duobianlianggouwangkongzhiyufeixianxingwendingfenxi), Oct. 2023, Nanjing, remote talk.
 - ETH IFA coffee talk, *Multivariable stability of converter-based power systems: Centralized and decentralized methods*, [slides](https://www.researchgate.net/publication/375186956_Multivariable_Stability_Analysis_of_Converter-Based_Power_Systems_Centralized_and_Decentralized_Methods), Apr. 2023, ETH Zurich.
