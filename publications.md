@@ -26,7 +26,7 @@ title: Publications
 
 ### Topic II: Dynamic Ancillary Services of Inverter-Based Resources
 
-- **X. He**, J. Duarte, V. Häberle, and F. Dörfler, “Grid-forming control of modular dynamic virtual power plants,” submitted to *Applied Energy*, 2024.
+- **X. He**, J. Duarte, V. Häberle, and F. Dörfler, “Aggregate grid-forming control of distributed energy resources for fast ancillary services,” submitted to *Applied Energy*, 2025, [link](https://dx.doi.org/10.2139/ssrn.5085329).
 - V. Häberle, **X. He**, L. Huang, E. Prieto-Araujo, and F. Dörfler, “Optimal dynamic ancillary services provision based on local power grid perception,” *IEEE Trans. Power Syst*, in press, 2024, [link](https://doi.org/10.1109/TPWRS.2024.3447410).
 - R. Domingo-Enrich, **X. He**, V. Häberle, and F. Dörfler, “Dynamic complex-frequency control of grid-forming converters,” in *Proc. IECON 2024*, [link](https://arxiv.org/abs/2404.10071).
 - V. Häberle, L. Huang, **X. He**, E. Prieto-Araujo, and F. Dörfler, “Dynamic ancillary services: From grid codes to transfer function-based converter control,” *Electr. Power Syst. Res.*, vol. 234, p. 110760, 2024, [link](https://doi.org/10.1016/j.epsr.2024.110760).
