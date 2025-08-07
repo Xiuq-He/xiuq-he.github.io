@@ -4,6 +4,7 @@ permalink: /talks/index.html
 title: Talks
 ---
 
+- FAFEE 2025, *Complex-frequency grid-forming control*, [slides](https://xiuq-he.github.io/files/slides/FAFEE2025_Xiuqiang_final.pdf), May 2025, Xiamen, China.
 - IECON 2024, *Dynamic complex-frequency control of grid-forming converters*, [slides](https://xiuq-he.github.io/files/slides/IECON2024_Xiuqiang_final.pdf), Nov. 2024, Chicago, USA.
 - Invited talk at EirGrid, *Grid-forming, grid-following, and cross-forming controls*, [slides](https://xiuq-he.github.io/files/slides/EirGrid2024_Xiuqiang_final.pdf), Aug. 2024, remote.
 - The Third Champéry Power Conference, *Stability guarantees for grid-forming complex droop control*, [slides](https://champery.control.ee.ethz.ch/program), Feb. 2024, Champéry, Switzerland.
