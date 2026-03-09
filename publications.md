@@ -12,6 +12,7 @@ title: Publications
 - J. Miller, M. A. Desai, **X. He**, R. S. Smith, and G. Hug, “Network-Independent Incremental Passivity Conditions for Grid-Forming Inverter Control,” arXiv preprint arXiv:2109.08383, 2025, [link](https://arxiv.org/abs/2506.14469).
 - Z. Sun, S. Jiang, J. Zhang, **X. He**, and H. Geng, “Decentralized Stability Analysis for DC Microgrids with Heterogeneous Dynamics,” *IEEE Trans. Smart Grid*, 2025. [link](https://doi.org/10.1109/TSG.2025.3646642).
 - **X. He** and F. Dörfler, “Passivity and decentralized stability conditions for grid-forming converters,” *IEEE Trans. Power Syst.*, vol. 39, no. 3, pp. 5447–5450, 2024, [link](https://doi.org/10.1109/TPWRS.2024.3360707).
+
 #### Conference Papers
 - Z. Sun, S. Jiang, J. Zhang, M. Zhang, **X. He** and H. Geng, "Decentralized Stability Analysis and Region of Attraction Estimation for Multi-Bus DC Microgrids," in *2025 IEEE Industry Applications Society Annual Meeting (IAS 2025)*, 2025, pp. 1-6, [link](https://doi.org/10.1109/IAS62731.2025.11061515).
 
