@@ -4,6 +4,9 @@ permalink: /talks/index.html
 title: Talks
 ---
 
+- The Fourth Champéry Power Conference, *Quantifying Stability Conditions for Grid-Forming and Grid-Following Heterogeneous Power Systems*, [slides](https://xiuq-he.github.io/files/slides/Champery2026_Xiuqiang_final.pdf), Febuary 2026, Champéry, Switzerland.
+- 合肥工业大学 (Hefei University of Technology), 《新能源系统的构网控制与分散式稳定分析》, [slides](https://xiuq-he.github.io/files/slides/HUT-lecture2026_Xiuqiang.pdf), January 2026, Hefei, China.
+- 2025年构网变流器原理控制技术与需求应用设计高级研讨班, 《构网型变流器暂态运行及稳定控制》, [slides](https://xiuq-he.github.io/files/slides/CPSS-lecture2026_Xiuqiang_final.pdf), November 2025, Shanghai, China.
 - FAFEE 2025, *Complex-frequency grid-forming control*, [slides](https://xiuq-he.github.io/files/slides/FAFEE2025_Xiuqiang_final.pdf), May 2025, Xiamen, China.
 - IECON 2024, *Dynamic complex-frequency control of grid-forming converters*, [slides](https://xiuq-he.github.io/files/slides/IECON2024_Xiuqiang_final.pdf), Nov. 2024, Chicago, USA.
 - Invited talk at EirGrid, *Grid-forming, grid-following, and cross-forming controls*, [slides](https://xiuq-he.github.io/files/slides/EirGrid2024_Xiuqiang_final.pdf), Aug. 2024, remote.

@@ -22,6 +22,7 @@ title: Misc.
 
 ### Awards
 
+- **The 2024 ISGAN Award of Excellence**, awarded by the International Smart Grid Action Network, Mar. 2025
 - **First Prize of Science and Technology Progress Award of China Electrotechnical Society (中国电工技术学会科技进步一等奖, 排7)**, awarded by the China Electrotechnical Society, Dec. 2024
 - **First Prize of Science and Technology Progress Award of China Power Supply Society (中国电源学会科技进步一等奖, 排2)**, awarded by the China Power Supply Society, Nov. 2023
 - **Outstanding Doctoral Dissertation (Nomination) of China Power Supply Society**, awarded by the China Power Supply Society, Apr. 2023

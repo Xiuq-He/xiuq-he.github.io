@@ -31,17 +31,16 @@ My research area interfaces smart energy systems, power system dynamics, stabili
 
 ### News and Updates
 
+- **Febuary 2026:** I gave a talk [Quantifying Stability Conditions for Grid-Forming and Grid-Following Heterogeneous Power Systems](https://xiuq-he.github.io/files/slides/Champery2026_Xiuqiang_final.pdf) at the 4th Champéry Power Conference.
+- **January 2026:** Our paper [Aggregate Grid-Forming Control of Distributed Energy Resources](https://ieeexplore.ieee.org/abstract/document/11328923) is accepted by IEEE TSG.
+- **January 2026:** Our paper [System Strength in Power Electronics-Dominated Power Systems: An Enabler to Stability and Control](https://ieeexplore.ieee.org/abstract/document/11328976) is accepted by IEEE Power and Energy Magazine.
+- **December 2025:** Our paper [Decentralized Stability Analysis for DC Microgrids with Heterogeneous Dynamics](https://ieeexplore.ieee.org/abstract/document/11311118) is accepted by IEEE TSG.
 - **July 2025:** I officially started a new role of Research Assistant Professor at the Department of Automation, Tsinghua University.
-- **June 2025:** Our paper [Dynamic Virtual Power Plants with Robust Frequency Regulation Capability](https://doi.org/10.1109/TIA.2025.3584036) is accepted by IEEE TIA.
-- **June 2025:** Our paper [Network-Independent Incremental Passivity Conditions for Grid-Forming Inverter Control](https://arxiv.org/abs/2506.14469) is accessible online.
-- **April 2025:** Our paper [Quantifying Grid-Forming Behavior: Bridging Device-level Dynamics and System-Level Stability](https://arxiv.org/abs/2503.24152) is accessible online.
 - **March 2025:** Our paper [Decentralized Parametric Stability Certificates for Grid-Forming Converter Control](https://arxiv.org/abs/2503.05403) is accessible online.
 - **November 2024:** Our paper [Cross-Forming Control and Fault Current Limiting for Grid-Forming Inverters](https://doi.org/10.1109/TPEL.2024.3500885) is accepted by IEEE TPEL, where we proposed a "cross-forming" (voltage angle forming and current magnitude forming) control concept, a novel perspective for inverter control, different from classical "grid-forming" (voltage magnitude-and-angle forming) and "grid-following" (current magnitude-and-angle forming) paradigms!
-- **October 2024:** Our paper [Aggregate Grid-Forming Control of Distributed Energy Resources for Fast Ancillary Services](https://arxiv.org/abs/2410.14912) is accessible online.
 - **August 2024:** Our paper [Optimal Dynamic Ancillary Services Provision Based on Local Power Grid Perception](https://arxiv.org/abs/2310.09933) is accepted by IEEE TPWRS.
 - **June 2024:** I organized the joint group meeting of IEC SC 8A JWG 4 & WG 8 & ahG 3 at ETH Zurich.
 - **May 2024:** Our paper [Complex-Frequency Synchronization of Converter-Based Power Systems](https://arxiv.org/abs/2208.13860) is accepted by IEEE TCNS!
 - **May 2024:** Our paper [Quantitative Stability Conditions for Grid-Forming Converters With Complex Droop Control](https://arxiv.org/abs/2310.09933) is accepted by IEEE TPEL.
-- **April 2024:** Our papers [Saturation-Informed Current-Limiting Control for Grid-Forming Converters](https://arxiv.org/abs/2404.07682) and [Dynamic ancillary services: From grid codes to transfer function-based converter control](https://doi.org/10.1016/j.epsr.2024.110760) have been accepted by PSCC 2024, which will be published on Electric Power Systems Research.
 - **April 2024:** Our patent application *Method and a Controller for Controlling a Grid Forming Converter* is officially filed (EP priority).
 - **April 2024:** This personal academic website is officially accessible online.
