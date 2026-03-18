@@ -14,7 +14,7 @@ title: Talks
 - Invited talk at the 9th Workshop of Power Electronics Emerging Technologies, *Multivariable grid-forming control and nonlinear stability analysis*, [slides](https://www.researchgate.net/publication/375187051_duobianlianggouwangkongzhiyufeixianxingwendingfenxi), Oct. 2023, Nanjing, remote talk.
 - ETH IFA coffee talk, *Multivariable stability of converter-based power systems: Centralized and decentralized methods*, [slides](https://www.researchgate.net/publication/375186956_Multivariable_Stability_Analysis_of_Converter-Based_Power_Systems_Centralized_and_Decentralized_Methods), Apr. 2023, ETH Zurich.
 - Invited session talk at IEEE SPIES 2022, *Complex-frequency synchronization and multivariable stability analysis*, Dec. 2022, remote.
-- Tutorial at IECON 2021, *Transient stability of power electronics-dominated power networks: Principle and application*, Oct. 2021, remote.
+- Tutorial at IECON 2021, *Transient stability of power electronics-dominated power networks: Principle and application*, [slides](https://xiuq-he.github.io/files/slides/IECON2021_tutorial_Xiuqiang.pdf), Oct. 2021, remote.
 - IAS Annual Meeting 2020, *Synchronization stability analysis and enhancement of grid-tied multi-converter systems*, Oct. 2020, remote.
 - IEEE PESGM 2020, *Transient stability analysis and enhancement of renewable energy conversion system during LVRT*, Aug. 2020, remote.
 - IEC SC 8A ahG 3 Meeting, *Modeling of inverter-based generation for power system stability studies*, Oct. 2019, Nanjing, China.
