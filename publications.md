@@ -5,7 +5,6 @@ title: Publications
 ---
 
 ### Topic: Decentralized Stability analysis
-#### Journal Papers
 - X. Zhu, **X. He**, H. Qing, and H. Geng, “Decentralized Analysis Approach for Oscillation Damping in Grid-Forming and Grid-Following Heterogeneous Power Systems,” *arXiv preprint*, 2026, [link](https://arxiv.org/abs/2601.21562).
 - V. Häberle, **X. He**, L. Huang, F. Dörfler, and S. Low, “Decentralized Parametric Stability Certificates for Grid-Forming Converter Control,” arXiv preprint arXiv:2503.05403, 2025, [link](https://arxiv.org/abs/2503.05403).
 - V. Häberle, K. Zhuang, **X. He**, L. Huang, G. Hug, and F. Dörfler, “Next-Generation Grid Codes: Toward a New Paradigm for Dynamic Ancillary Services,” *arXiv preprint*, 2026, [link](https://arxiv.org/abs/2601.07090).
@@ -13,13 +12,11 @@ title: Publications
 - Z. Sun, S. Jiang, J. Zhang, **X. He**, and H. Geng, “Decentralized Stability Analysis for DC Microgrids with Heterogeneous Dynamics,” *IEEE Trans. Smart Grid*, 2025. [link](https://doi.org/10.1109/TSG.2025.3646642).
 - **X. He** and F. Dörfler, “Passivity and decentralized stability conditions for grid-forming converters,” *IEEE Trans. Power Syst.*, vol. 39, no. 3, pp. 5447–5450, 2024, [link](https://doi.org/10.1109/TPWRS.2024.3360707).
 
-#### Conference Papers
 - Z. Sun, S. Jiang, J. Zhang, M. Zhang, **X. He** and H. Geng, "Decentralized Stability Analysis and Region of Attraction Estimation for Multi-Bus DC Microgrids," in *2025 IEEE Industry Applications Society Annual Meeting (IAS 2025)*, 2025, pp. 1-6, [link](https://doi.org/10.1109/IAS62731.2025.11061515).
 
 
 ### Topic: Grid-Forming/-Following Control and Stability
 
-#### Journal Papers
 - K. Zhuang, L. Huang, H. Xin, **X. He**, V. Häberle, and F. Dörfler, “Dispatchable Current Source Virtual Oscillator Control Achieving Global Stability,” *arXiv preprint*, 2025, [link](https://arxiv.org/abs/2510.26977).
 - K. Zhuang, H. Xin, V. Häberle, **X. He**, L. Huang, and F. Dörfler, “Quantifying Grid-Forming Behavior: Bridging Device-Level Dynamics and System-Level Strength,” *arXiv preprint*, 2025, [link](https://arxiv.org/abs/2510.26953).
 - K. Zhuang, H. Xin, V. Häberle, **X. He**, L. Huang, and F. Dörfler, “Quantifying Grid-Forming Behavior: Bridging Device-level Dynamics and System-Level Stability,” arXiv preprint arXiv:2503.24152, 2025, [link](https://arxiv.org/abs/2503.24152).
@@ -42,7 +39,6 @@ title: Publications
 - **X. He**, H. Geng, and G. Yang, “Reinvestigation of single-phase FLLs,” *IEEE Access*, vol. 7, pp. 13178–13188, 2019, [link](https://doi.org/10.1109/ACCESS.2019.2891973).
 - **X. He**, H. Geng, and G. Yang, “A generalized design framework of notch filter based frequency-locked loop for three-phase grid voltage,” *IEEE Trans. Ind. Electron.*, vol. 65, no. 9, pp. 7072–7084, 2018, [link](https://doi.org/10.1109/TIE.2017.2784413).
 
-#### Conference Papers
 - K. Zhuang, H. Xin, H. Chen, **X. He**, H. Gao, and L. Huang, “On the Evaluation of Frequency-Forming and Voltage-Forming Capabilities of Power Converters,” *Proc. IEEE PES General Meeting*, pp. 1–5, 2025. [link](https://doi.org/10.1109/PESGM52009.2025.11225682).
 - M. A. Desai, R. Stoll, **X. He**, F. Dörfler, and G. Hug, “Comparison of Current-Limiting Strategies for Grid-Forming Converters Under Grid Faults,” *Proc. IEEE PowerTech*, pp. 1–6, 2025. [link](https://doi.org/10.1109/PowerTech59965.2025.11180244).
 - H. Liu, **X. He**, H. Qing, Y. Chen and H. Geng, "Stability-Constrained GFM/GFL Capacity Ratio: Modeling and Evaluation," in *2025 IEEE Industry Applications Society Annual Meeting (IAS 2025)*, 2025, pp. 1-6, [link](https://doi.org/10.1109/IAS62731.2025.11061641).
@@ -56,7 +52,6 @@ title: Publications
 
 ### Topic: Dynamic Ancillary Services of Inverter-Based Resources
 
-#### Journal Papers
 - L. Huang, **X. He**, H. Xin, Z. Li, P. Ju, F. Ma, K. Wang, and F. Dörfler, “System Strength in Power Electronics-Dominated Power Systems: An Enabler to Stability and Control,” *IEEE Power Energy Mag.*, vol. 24, no. 1, pp. 49–66, 2026. [link](https://doi.org/10.1109/MPE.2025.3599131).
 - X. Zhu, H. Geng, H. Qing, G. Ruan and **X. He**, "Dynamic Virtual Power Plants with Robust Frequency Regulation Capability," *IEEE Trans. Ind. Appl.*, 2025, [link](https://doi.org/10.1109/TIA.2025.3584036).
 - C. Feng, L. Huang, **X. He**, Y. Wang, F. Dörfler, and C. Kang, “Hybrid Oscillation Damping and Inertia Management for Distributed Energy Resources,” *IEEE Trans. Power Syst.*, 2025, [link](https://doi.org/10.1109/TPWRS.2025.3562811).
@@ -65,21 +60,15 @@ title: Publications
 - V. Häberle, L. Huang, **X. He**, E. Prieto-Araujo, and F. Dörfler, “Dynamic ancillary services: From grid codes to transfer function-based converter control,” *Electr. Power Syst. Res.*, vol. 234, p. 110760, 2024, [link](https://doi.org/10.1016/j.epsr.2024.110760).
 - V. Häberle, A. Tayyebi, **X. He**, E. Prieto-Araujo, and F. Dörfler, “Grid-forming and spatially distributed control design of dynamic virtual power plants,” *IEEE Trans. Smart Grid*, vol. 15, no. 2, pp. 1761–1777, 2024, [link](https://doi.org/10.1109/TSG.2023.3311481).
 
-#### Conference Papers
-
 - R. Domingo-Enrich, **X. He**, V. Häberle, and F. Dörfler, “Dynamic complex-frequency control of grid-forming converters,” in *50th Annual Conference of the IEEE Industrial Electronics Society (IECON 2024)*, [link](https://arxiv.org/abs/2404.10071).
 - V. Häberle, L. Huang, **X. He**, R. S. Smith, and F. Dörfler, “MIMO grid impedance identification of three-phase power systems: Parametric vs. nonparametric approaches,” in *62nd IEEE Conference on Decision and Control*, 2023, [link](https://doi.org/10.1109/CDC49753.2023.10383646).
 - J. Xi, H. Geng, and **X. He**, “Adaptive VSG control scheme for large scale wind farms to improve frequency response characteristics,” in *2019 IEEE Industry Applications Society Annual Meeting*, 2019, pp. 1–7, [link](https://doi.org/10.1109/IAS.2019.8912376).
 
 ### Topic: Modeling of Renewable Energy Generation
 
-#### Conference Papers
-
 - **X. He**, H. Geng, and G. Mu, “Modeling of wind turbine generators for power system stability studies: A review,” *Renew. Sust. Energ. Rev.*, vol. 143, p. 110865, 2021, [link](https://doi.org/10.1016/j.rser.2021.110865).
 - **X. He**, H. Geng, and G. Yang, “Mode clustering based dynamic equivalent modeling of wind farm for small-signal stability analysis,” arXiv preprint arXiv:2109.08383, 2021, [link](https://arxiv.org/abs/2109.08383).
 - **X. He**, H. Geng, G. Yang, X. Zou, and Y. Li, “Equivalent modelling of wind farm for small-signal stability analysis in weak power system,” *J. Eng.*, vol. 2017, no. 13, pp. 1388–1393, 2017, [link](https://doi.org/10.1049/joe.2017.0559).
-
-#### Conference Papers
 
 - X. Jiao, **X. He**, H. Geng, and B. Ren, “Hybrid average-value modelling of DFIG-based wind energy conversion systems,” in *10th Renewable Power Generation Conference (RPG 2021)*, vol. 2021, 2021, pp. 193–198, [link](https://doi.org/10.1049/icp.2021.2369).
 - **X. He**, H. Geng, and G. Yang, “Dynamic equivalent modeling of wind power plants for various timescale small signal stability analyses,” in *2019 IEEE Power and Energy Society General Meeting (PESGM)*, 2019, pp. 1–5, [link](https://doi.org/10.1109/PESGM40551.2019.8974059).
@@ -87,13 +76,9 @@ title: Publications
 
 ### Topic: HVDC Integration of Renewable Energy Generation
 
-#### Conference Papers
-
 - S. Zhao, **X. He**, C. Lv, Y. Zhou, S. Xu, X. Liu, and H. Geng, “Black start-up and coordinated control strategy of standalone doubly-fed wind farms connected to LCC-HVDC,” *Power System and Clean Energy*, vol. 37, no. 7, pp. 87–96,135, 2021, [link](https://doi.org/10.3969/j.issn.16743814.2021.07.012). (In Chinese)
 - **X. He**, G. Hua, Y. Geng, and Z. Xin, “Startup and integration control strategy of DFIG based isolated wind farm connected with LCC-HVDC,” *Autom. of Elec. Power Syst.*, vol. 43, no. 9, pp. 99–107, 2019, [link](https://doi.org/10.7500/AEPS20180125006). (In Chinese)
 - **X. He**, H. Geng, G. Yang, and X. Zou, “Coordinated control for large-scale wind farms with LCC-HVDC integration,” *Energies*, vol. 11, no. 9, 2018, [link](https://doi.org/10.3390/en11092207).
-
-#### Conference Papers
 
 - **X. He**, H. Geng, G. Yang, and X. Zou, “VSG control for DFIG-based islanded wind farm with LCC-HVDC integration,” in *2018 IEEE Power and Energy Society General Meeting (PESGM)*, 2018, pp. 1–5, [link](https://doi.org/10.1109/PESGM.2018.8585982).
 
