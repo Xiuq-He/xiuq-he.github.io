@@ -14,7 +14,7 @@ title: Misc.
 
 ### Teaching
 
-- 电能变换原理与系统, 本科生专业基础课，2025年秋季学期，清华大学.
+- 电能变换原理与系统，本科生专业核心课，秋季学期，清华大学.
 - Control Systems (Prof. Florian Dörfler), Teaching Assistant (Fall Semester 2022, Spring Semester 2023, Fall Semester 2023, Spring Semester 2024, Fall Semester 2024), ETH Zurich.
 - Control Systems I (Prof. Florian Dörfler), Teaching Assistant (Spring Semester 2022), ETH Zurich.
 - Fundamentals of Analog Electronics Technology (Prof. Hua GENG), Teaching Assistant (for three semesters), Tsinghua University.

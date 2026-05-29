@@ -2,8 +2,9 @@
 layout: page
 ---
 
-Hello! Here is Xiuqiang HE (何秀强).
 I am a Research Assistant Professor at Tsinghua University. Before that, I was a Postdoctoral Researcher at ETH Zürich, working at the [Automatic Control Laboratory](https://control.ee.ethz.ch/) with [Prof. Florian Dörfler](https://dorfler.ethz.ch/) from 2021 to 2024, and then a Senior Scientist from 2024 to 2025. I received my Ph.D. degree in Control Science and Engineering from Tsinghua University in 2021, supervised by [Prof. Hua Geng](https://www.au.tsinghua.edu.cn/info/1094/1517.htm), and my B.S. degree from Tsinghua University in 2016. You can find further details in my [CV](https://xiuq-he.github.io/files/CV.pdf).
+
+**I am looking for highly self-motivated PhD students (starting Fall 2027) with a strong passion for smart energy systems. Please send your CV and transcripts.**
 
 
 ### Education
@@ -24,19 +25,22 @@ I am a Research Assistant Professor at Tsinghua University. Before that, I was a
 
 My research area interfaces smart energy systems, power system dynamics, stability, control, optimization, and standarization, involving multidisciplinary expertise in automatic control, power systems, power electronics, and renewable energy integration. In particular, my research interests include:
 - **Stability:** Modeling, stability analysis, and control of converter-dominated power systems
-- **Performance:** Fast frequency and voltage regulation, dynamic virtual power plants, and data-driven control
-- **Optimality:** Feedback optimization and game theory in renewable-rich power systems
+- **Dynamic Services:** Fast frequency and voltage response, dynamic virtual power plants, and data-driven control
+- **Optimization:** Optimization and game theory in renewable-rich power systems
 - **Standardization:** IEC generic modeling of inverter-based generation and next-generation grid codes
 
 
 ### News and Updates
 
+- **May 2026:** Our paper [How to Tailor Power-Electronic Inertia to the Constraints of its Resource](https://www.techrxiv.org/doi/abs/10.36227/techrxiv.175339583.35954496/v1) is accepted by IEEE OAJPE.
+- **May 2025:** Our paper [A Saturated Cross-Forming Control for Stability Enhancement of Grid-Forming Inverters During Grid Fault Recovery](https://ieeexplore.ieee.org/document/11523561) is accepted by IEEE TPEL.
+- **April 2025:** Our paper [Decentralized Parametric Stability Certificates for Grid-Forming Converter Control](https://ieeexplore.ieee.org/document/11511791/) is accepted by IEEE TCNS.
+- **April 2026:** Our paper [Quantifying Power Disturbance Tolerance to Guarantee Voltage Security in DC Microgrids](https://ieeexplore.ieee.org/document/11483135) is accepted by IEEE TSG.
 - **Febuary 2026:** I gave a talk [Quantifying Stability Conditions for Grid-Forming and Grid-Following Heterogeneous Power Systems](https://xiuq-he.github.io/files/slides/Champery2026_Xiuqiang_final.pdf) at the 4th Champéry Power Conference.
 - **January 2026:** Our paper [Aggregate Grid-Forming Control of Distributed Energy Resources](https://ieeexplore.ieee.org/abstract/document/11328923) is accepted by IEEE TSG.
 - **January 2026:** Our paper [System Strength in Power Electronics-Dominated Power Systems: An Enabler to Stability and Control](https://ieeexplore.ieee.org/abstract/document/11328976) is accepted by IEEE Power and Energy Magazine.
 - **December 2025:** Our paper [Decentralized Stability Analysis for DC Microgrids with Heterogeneous Dynamics](https://ieeexplore.ieee.org/abstract/document/11311118) is accepted by IEEE TSG.
 - **July 2025:** I officially started a new role of Research Assistant Professor at the Department of Automation, Tsinghua University.
-- **March 2025:** Our paper [Decentralized Parametric Stability Certificates for Grid-Forming Converter Control](https://arxiv.org/abs/2503.05403) is accessible online.
 - **November 2024:** Our paper [Cross-Forming Control and Fault Current Limiting for Grid-Forming Inverters](https://doi.org/10.1109/TPEL.2024.3500885) is accepted by IEEE TPEL, where we proposed a "cross-forming" (voltage angle forming and current magnitude forming) control concept, a novel perspective for inverter control, different from classical "grid-forming" (voltage magnitude-and-angle forming) and "grid-following" (current magnitude-and-angle forming) paradigms!
 - **August 2024:** Our paper [Optimal Dynamic Ancillary Services Provision Based on Local Power Grid Perception](https://arxiv.org/abs/2310.09933) is accepted by IEEE TPWRS.
 - **June 2024:** I organized the joint group meeting of IEC SC 8A JWG 4 & WG 8 & ahG 3 at ETH Zurich.
