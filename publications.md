@@ -6,10 +6,10 @@ title: Publications
 
 ### Topic: Decentralized Stability analysis
 - X. Zhu, **X. He**, H. Qing, and H. Geng, “Decentralized Analysis Approach for Oscillation Damping in Grid-Forming and Grid-Following Heterogeneous Power Systems,” *arXiv preprint*, 2026, [link](https://arxiv.org/abs/2601.21562).
-- V. Häberle, **X. He**, L. Huang, F. Dörfler, and S. Low, “Decentralized Parametric Stability Certificates for Grid-Forming Converter Control,” arXiv preprint arXiv:2503.05403, 2025, [link](https://arxiv.org/abs/2503.05403).
+- V. Häberle, **X. He**, L. Huang, F. Dörfler, and S. Low, “Decentralized Parametric Stability Certificates for Grid-Forming Converter Control,” *IEEE Trans. Control Netw. Syst.*, 2026, [link](https://arxiv.org/abs/2503.05403).
 - V. Häberle, K. Zhuang, **X. He**, L. Huang, G. Hug, and F. Dörfler, “Next-Generation Grid Codes: Toward a New Paradigm for Dynamic Ancillary Services,” *arXiv preprint*, 2026, [link](https://arxiv.org/abs/2601.07090).
 - J. Miller, M. A. Desai, **X. He**, R. S. Smith, and G. Hug, “Network-Independent Incremental Passivity Conditions for Grid-Forming Inverter Control,” arXiv preprint arXiv:2109.08383, 2025, [link](https://arxiv.org/abs/2506.14469).
-- Z. Sun, S. Jiang, J. Zhang, **X. He**, and H. Geng, “Decentralized Stability Analysis for DC Microgrids with Heterogeneous Dynamics,” *IEEE Trans. Smart Grid*, 2025. [link](https://doi.org/10.1109/TSG.2025.3646642).
+- Z. Sun, S. Jiang, J. Zhang, **X. He**, and H. Geng, “Decentralized Stability Analysis for DC Microgrids with Heterogeneous Dynamics,” *IEEE Trans. Smart Grid*, vol. 17, no. 3, pp. 1756-1769, 2026. [link](https://doi.org/10.1109/TSG.2025.3646642).
 - **X. He** and F. Dörfler, “Passivity and decentralized stability conditions for grid-forming converters,” *IEEE Trans. Power Syst.*, vol. 39, no. 3, pp. 5447–5450, 2024, [link](https://doi.org/10.1109/TPWRS.2024.3360707).
 
 - Z. Sun, S. Jiang, J. Zhang, M. Zhang, **X. He** and H. Geng, "Decentralized Stability Analysis and Region of Attraction Estimation for Multi-Bus DC Microgrids," in *2025 IEEE Industry Applications Society Annual Meeting (IAS 2025)*, 2025, pp. 1-6, [link](https://doi.org/10.1109/IAS62731.2025.11061515).
@@ -17,15 +17,17 @@ title: Publications
 
 ### Topic: Grid-Forming/-Following Control and Stability
 
+- H. Qing, **X. He**, H. Geng, “Frequency and Voltage Independent Stability Conditions for Grid-Forming Devices,” *IEEE Trans. on Power Syst.*, early access, 2026, [link](https://doi.org/10.1109/TPWRS.2026.3703614).
+- J. Yang, H. Ye, Q. Mou, **X. He**, Y. Liu, and H. Geng, “A saturated cross-forming control for stability enhancement of grid-forming inverters during grid fault recovery,” *IEEE Trans. Power Electron.*, early access, 2026, [link](https://doi.org/10.1109/TPEL.2026.3694514).
 - K. Zhuang, L. Huang, H. Xin, **X. He**, V. Häberle, and F. Dörfler, “Dispatchable Current Source Virtual Oscillator Control Achieving Global Stability,” *arXiv preprint*, 2025, [link](https://arxiv.org/abs/2510.26977).
 - K. Zhuang, H. Xin, V. Häberle, **X. He**, L. Huang, and F. Dörfler, “Quantifying Grid-Forming Behavior: Bridging Device-Level Dynamics and System-Level Strength,” *arXiv preprint*, 2025, [link](https://arxiv.org/abs/2510.26953).
 - K. Zhuang, H. Xin, V. Häberle, **X. He**, L. Huang, and F. Dörfler, “Quantifying Grid-Forming Behavior: Bridging Device-level Dynamics and System-Level Stability,” arXiv preprint arXiv:2503.24152, 2025, [link](https://arxiv.org/abs/2503.24152).
-- M. Abdalmoaty, V. Häberle, **X. He**, and F. Dörfler, “Ultrafast Grid Impedance Identification in Asymmetric Three-Phase Power Systems,” *arXiv preprint*, 2025, [link](https://arxiv.org/abs/2510.12338).
-- W. Schittek, N. Wiese, C. Hachmann, **X. He**, J. Heid, J. Ferry, and M. Braun, “How to Tailor Power-Electronic Inertia to the Constraints of its Resource,” TechRxiv preprint, 2025, [link](https://doi.org/10.36227/techrxiv.175339583.35954496/v1).
-- **X. He**, M. A. Desai, L. Huang, and F. Dörfler, “Cross-forming control and fault current limiting for grid-forming inverters,” *IEEE Trans Power Electron.*, vol. 40, no. 3, pp. 3980-4007, 2025, [link](https://doi.org/10.1109/TPEL.2024.3500885).
+- M. Abdalmoaty, V. Häberle, **X. He**, and F. Dörfler, “Ultrafast Grid Impedance Identification in Asymmetric Three-Phase Power Systems,” *Electr. Power Syst. Res.*, in press, 2026, [link](https://arxiv.org/abs/2510.12338).
+- W. Schittek, N. Wiese, C. Hachmann, **X. He**, J. Heid, J. Ferry, and M. Braun, “How to Tailor Power-Electronic Inertia to the Constraints of its Resource,” *IEEE Open Access J. Power Energ.*, early access, 2026, [link](https://doi.org/10.1109/OAJPE.2026.3698147).
+- **X. He**, M. A. Desai, L. Huang, and F. Dörfler, “Cross-forming control and fault current limiting for grid-forming inverters,” *IEEE Trans. Power Electron.*, vol. 40, no. 3, pp. 3980-4007, 2025, [link](https://doi.org/10.1109/TPEL.2024.3500885).
 - **X. He**, L. Huang, I. Subotić, V. Häberle, and F. Dörfler, “Quantitative stability conditions for grid-forming converters with complex droop control,” *IEEE Trans. Power Electron.*, vol. 39, no. 9, pp. 10834–10852, 2024, [link](https://doi.org/10.1109/TPEL.2024.3404251).
 - M. A. Desai, **X. He**, L. Huang, and F. Dörfler, “Saturation-informed current-limiting control for grid-forming converters,” *Electr. Power Syst. Res.*, vol. 234, p. 110746, 2024, [link](https://doi.org/10.1016/j.epsr.2024.110746).
-- **X. He**, V. Häberle, and F. Dörfler, “Complex-frequency synchronization of converter-based power systems,” *IEEE Trans. Control Netw. Syst.*, in press, 2024, [link](https://doi.org/10.1109/TCNS.2024.3420983).
+- **X. He**, V. Häberle, and F. Dörfler, “Complex-frequency synchronization of converter-based power systems,” *IEEE Trans. Control Netw. Syst.*, vol. 12, no. 1, pp. 787–799, 2025, [link](https://doi.org/10.1109/TCNS.2024.3420983).
 - **X. He**, V. Häberle, I. Subotić, and F. Dörfler, “Nonlinear stability of complex droop control in converter-based power systems,” *IEEE Control Syst. Lett.*, vol. 7, pp. 1327–1332, 2023, [link](https://doi.org/10.1109/LCSYS.2023.3236276).
 - H. Geng, C. He, Y. Liu, **X. He**, and M. Li, “Overview on transient synchronization stability of renewable-rich power systems,” *High Voltage Engineering*, vol. 48, no. 9, pp. 3367–3383, 2022, [link](https://doi.org/10.13336/j.1003-6520.hve.20221231). (In Chinese)
 - C. He, **X. He**, H. Geng, H. Sun, and S. Xu, “Transient stability of low-inertia power systems with inverter-based generation,” *IEEE Trans. Energy Convers.*, vol. 37, no. 4, pp. 2903–2912, 2022, [link](https://doi.org/10.1109/TEC.2022.3185623). (Best Paper for the period 2021-2022)
@@ -49,14 +51,16 @@ title: Publications
 
 ### Topic: Lunar Surface DC Microgrid Networks
 - S. Jiang, Z. Sun, J. Zhang, M. Zhang, C. Tang, **X. He**, and H. Geng, “A Graph-Theoretic Approach for Ensuring Stability in DC Microgrid Networks During Mode Switching,” *IEEE Trans. Smart Grid*, vol. 17, no. 2, pp. 922–935, 2026. [link](https://doi.org/10.1109/TSG.2025.3631473).
+- Z. Sun, **X. He**, S. Jiang, X. Peng, J. Zhang, and H. Geng, “Quantifying power disturbance tolerance to guarantee voltage security in dc microgrids,” *IEEE Trans. Smart Grid*, early access, 2026, [link](https://doi.org/10.1109/TSG.2026.3684774).
 
 ### Topic: Dynamic Ancillary Services of Inverter-Based Resources
 
 - L. Huang, **X. He**, H. Xin, Z. Li, P. Ju, F. Ma, K. Wang, and F. Dörfler, “System Strength in Power Electronics-Dominated Power Systems: An Enabler to Stability and Control,” *IEEE Power Energy Mag.*, vol. 24, no. 1, pp. 49–66, 2026. [link](https://doi.org/10.1109/MPE.2025.3599131).
+- **X. He**, J. Duarte, V. Häberle, and F. Dörfler, “Aggregate Grid-Forming Control of Distributed Energy Resources,” *IEEE Trans. Smart Grid*, early access, 2026, [link](http://dx.doi.org/10.1109/TSG.2025.3650666).
 - X. Zhu, H. Geng, H. Qing, G. Ruan and **X. He**, "Dynamic Virtual Power Plants with Robust Frequency Regulation Capability," *IEEE Trans. Ind. Appl.*, 2025, [link](https://doi.org/10.1109/TIA.2025.3584036).
 - C. Feng, L. Huang, **X. He**, Y. Wang, F. Dörfler, and C. Kang, “Hybrid Oscillation Damping and Inertia Management for Distributed Energy Resources,” *IEEE Trans. Power Syst.*, 2025, [link](https://doi.org/10.1109/TPWRS.2025.3562811).
-- **X. He**, J. Duarte, V. Häberle, and F. Dörfler, “Aggregate Grid-Forming Control of Distributed Energy Resources,” *IEEE Trans. Smart Grid*, 2026.
-- V. Häberle, **X. He**, L. Huang, E. Prieto-Araujo, and F. Dörfler, “Optimal dynamic ancillary services provision based on local power grid perception,” *IEEE Trans. Power Syst*, in press, 2024, [link](https://doi.org/10.1109/TPWRS.2024.3447410).
+- V. Häberle, **X. He**, L. Huang, E. Prieto-Araujo, and F. Dörfler, “Optimal dynamic ancillary services provision based on local power grid perception,” *IEEE Trans. Power Syst*, vol. 40, no. 2,
+pp. 1816–1831, 2025, [link](https://doi.org/10.1109/TPWRS.2024.3447410).
 - V. Häberle, L. Huang, **X. He**, E. Prieto-Araujo, and F. Dörfler, “Dynamic ancillary services: From grid codes to transfer function-based converter control,” *Electr. Power Syst. Res.*, vol. 234, p. 110760, 2024, [link](https://doi.org/10.1016/j.epsr.2024.110760).
 - V. Häberle, A. Tayyebi, **X. He**, E. Prieto-Araujo, and F. Dörfler, “Grid-forming and spatially distributed control design of dynamic virtual power plants,” *IEEE Trans. Smart Grid*, vol. 15, no. 2, pp. 1761–1777, 2024, [link](https://doi.org/10.1109/TSG.2023.3311481).
 
