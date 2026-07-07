@@ -2,23 +2,9 @@
 layout: page
 ---
 
-I am a Research Assistant Professor at Tsinghua University. Before that, I was a Postdoctoral Researcher at ETH Zürich, working at the [Automatic Control Laboratory](https://control.ee.ethz.ch/) with [Prof. Florian Dörfler](https://dorfler.ethz.ch/) from 2021 to 2024, and then a Senior Scientist from 2024 to 2025. I received my Ph.D. degree in Control Science and Engineering from Tsinghua University in 2021, supervised by [Prof. Hua Geng](https://www.au.tsinghua.edu.cn/info/1094/1517.htm), and my B.S. degree from Tsinghua University in 2016. You can find further details in my [CV](https://xiuq-he.github.io/files/CV.pdf).
+I am an Assistant Professor in the Department of Automation at Tsinghua University. I received my B.S. degree (2016) and Ph.D. degree (2021) in Control Science and Engineering from Tsinghua University, supervised by [Prof. Hua Geng](https://www.au.tsinghua.edu.cn/info/1094/1517.htm). From 2021 to 2025, I worked in the [Automatic Control Laboratory](https://control.ee.ethz.ch/) at ETH Zürich with [Prof. Florian Dörfler](https://dorfler.ethz.ch/), first as a Postdoctoral Researcher and later as a Senior Scientist. Further details are available in my [CV](https://xiuq-he.github.io/files/CV.pdf).
 
-**I am looking for highly self-motivated PhD students (starting Fall 2027) with a strong passion for smart energy systems. Please send your CV and transcripts.**
-
-
-### Education
-
-- **Ph.D. in Control Science and Engineering**  
-  _Tsinghua University, China_  
-  August 2016 – June 2021  
-  Dissertation: Research on Synchronization Issues in Power Systems with High Penetration of Power Electronics  
-  [Dissertation full-text](https://doi.org/10.13140/RG.2.2.32901.93928) (in Chinese)  
-  Advisor: [Prof. Hua Geng](https://www.au.tsinghua.edu.cn/info/1079/3102.htm)
-
-- **B.S. in Automation**  
-  _Tsinghua University, China_  
-  August 2012 – June 2016  
+**I am looking for highly self-motivated Ph.D., visiting, and undergraduate students with a strong background and research interest in smart energy systems. If you are interested in joining my group, please send me your CV and academic transcripts.**
 
 
 ### Research Interests
@@ -32,6 +18,7 @@ My research area interfaces smart energy systems, power system dynamics, stabili
 
 ### News and Updates
 
+- **Aug 2026:** I started my appointment as a (Tenure-Track) Assistant Professor in the Department of Automation at Tsinghua University.
 - **May 2026:** Our paper [How to Tailor Power-Electronic Inertia to the Constraints of its Resource](https://www.techrxiv.org/doi/abs/10.36227/techrxiv.175339583.35954496/v1) is accepted by IEEE OAJPE.
 - **May 2025:** Our paper [A Saturated Cross-Forming Control for Stability Enhancement of Grid-Forming Inverters During Grid Fault Recovery](https://ieeexplore.ieee.org/document/11523561) is accepted by IEEE TPEL.
 - **April 2025:** Our paper [Decentralized Parametric Stability Certificates for Grid-Forming Converter Control](https://ieeexplore.ieee.org/document/11511791/) is accepted by IEEE TCNS.
