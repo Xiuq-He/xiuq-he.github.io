@@ -18,7 +18,7 @@ My research area interfaces smart energy systems, power system dynamics, stabili
 
 ### News and Updates
 
-- **Aug 2026:** I started my appointment as a (Tenure-Track) Assistant Professor in the Department of Automation at Tsinghua University.
+- **August 2026:** I started my appointment as a (Tenure-Track) Assistant Professor in the Department of Automation at Tsinghua University.
 - **May 2026:** Our paper [How to Tailor Power-Electronic Inertia to the Constraints of its Resource](https://www.techrxiv.org/doi/abs/10.36227/techrxiv.175339583.35954496/v1) is accepted by IEEE OAJPE.
 - **May 2025:** Our paper [A Saturated Cross-Forming Control for Stability Enhancement of Grid-Forming Inverters During Grid Fault Recovery](https://ieeexplore.ieee.org/document/11523561) is accepted by IEEE TPEL.
 - **April 2025:** Our paper [Decentralized Parametric Stability Certificates for Grid-Forming Converter Control](https://ieeexplore.ieee.org/document/11511791/) is accepted by IEEE TCNS.
