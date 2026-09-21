@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I am an Assistant Professor in the Department of Automation at Tsinghua University. I received my B.S. degree (2016) and Ph.D. degree (2021) in Control Science and Engineering from Tsinghua University, supervised by [Prof. Hua Geng](https://www.au.tsinghua.edu.cn/info/1094/1517.htm). From 2021 to 2025, I worked in the [Automatic Control Laboratory](https://control.ee.ethz.ch/) at ETH Zürich with [Prof. Florian Dörfler](https://dorfler.ethz.ch/), first as a Postdoctoral Researcher and later as a Senior Scientist. Further details are available in my [CV](https://xiuq-he.github.io/files/CV.pdf).
+I am an Assistant Professor in the Department of Automation at Tsinghua University. I received my B.S. degree (2016) and Ph.D. degree (2021) in Control Science and Engineering from Tsinghua University. From 2021 to 2025, I worked in the [Automatic Control Laboratory](https://control.ee.ethz.ch/) at ETH Zürich, Switzerland, first as a Postdoctoral Researcher and later as a Senior Scientist. Further details are available in my [CV](https://xiuq-he.github.io/files/CV.pdf).
 
 **I am looking for highly self-motivated Ph.D., visiting, and undergraduate students with a strong background and research interest in smart energy systems. If you are interested in joining my group, please send me your CV and academic transcripts.**
 
@@ -15,6 +15,10 @@ My research area interfaces smart energy systems, power system dynamics, stabili
 - **Optimization:** Optimization and game theory in renewable-rich power systems
 - **Standardization:** IEC generic modeling of inverter-based generation and next-generation grid codes
 
+### Education
+
+- Ph.D. in Control Science and Engineering, Tsinghua University, 2021
+- B.S. in Automation, Tsinghua University, 2016
 
 ### News and Updates
 
