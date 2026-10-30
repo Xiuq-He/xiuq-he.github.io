@@ -5,8 +5,11 @@ title: Publications
 ---
 
 ### Topic: Decentralized Stability analysis
-- X. Zhu, **X. He**, H. Qing, and H. Geng, “Decentralized Analysis Approach for Oscillation Damping in Grid-Forming and Grid-Following Heterogeneous Power Systems,” *arXiv preprint*, 2026, [link](https://arxiv.org/abs/2601.21562).
+- L. Huang, V. Häberle, R. Leng, H. Xin, H. Geng, F. Dörfler, and **X. He**, “Decentralized Stability Certificates for Interoperability in Power-Electronics-Dominated Power Systems,” *arXiv preprint*, 2026, [link](https://arxiv.org/abs/2610.26527).
+- X. Zhu, **X. He**, H. Qing, G. Ruan, P. Yang, and J. Liang, “Oscillation-Damping-Constrained Optimal Frequency Regulation for Power Systems with Heterogeneous Inverter-Based Resources,” *J. Mod. Power Syst. Clean Energy*, 2026, [link](https://ieeexplore.ieee.org/abstract/document/11727598/).
 - V. Häberle, **X. He**, L. Huang, F. Dörfler, and S. Low, “Decentralized Parametric Stability Certificates for Grid-Forming Converter Control,” *IEEE Trans. Control Netw. Syst.*, 2026, [link](https://arxiv.org/abs/2503.05403).
+- Z. Sun, S. Jiang, X. Peng, X. Zhu, **X. He**, and H. Geng, “Decentralized Frequency-Domain Conditions for D-Stability with Application to DC Microgrids,” *arXiv preprint*, 2026, [link](https://arxiv.org/abs/2605.13529).
+- H. Liu, **X. He**, H. Qing, C. Qiu, Y. Chen, and H. Geng, “Decision-Making of GFM/GFL Capacity Ratio: Ensuring Small-Signal and Frequency Stability,” *IEEE Trans. Ind. Appl.*, 2026, [link](https://ieeexplore.ieee.org/abstract/document/11613198).
 - V. Häberle, K. Zhuang, **X. He**, L. Huang, G. Hug, and F. Dörfler, “Next-Generation Grid Codes: Toward a New Paradigm for Dynamic Ancillary Services,” *arXiv preprint*, 2026, [link](https://arxiv.org/abs/2601.07090).
 - J. Miller, M. A. Desai, **X. He**, R. S. Smith, and G. Hug, “Network-Independent Incremental Passivity Conditions for Grid-Forming Inverter Control,” arXiv preprint arXiv:2109.08383, 2025, [link](https://arxiv.org/abs/2506.14469).
 - Z. Sun, S. Jiang, J. Zhang, **X. He**, and H. Geng, “Decentralized Stability Analysis for DC Microgrids with Heterogeneous Dynamics,” *IEEE Trans. Smart Grid*, vol. 17, no. 3, pp. 1756-1769, 2026. [link](https://doi.org/10.1109/TSG.2025.3646642).
@@ -16,11 +19,11 @@ title: Publications
 
 
 ### Topic: Grid-Forming/-Following Control and Stability
-
+- S. Peng, **X. He**, X. Ru, and H. Geng, “Equilibrium-Free Contraction Stability Analysis for Grid-Forming Converter-Based Microgrids,” *arXiv preprint*, 2026, [link](https://arxiv.org/abs/2605.22171).
 - H. Qing, **X. He**, H. Geng, “Frequency and Voltage Independent Stability Conditions for Grid-Forming Devices,” *IEEE Trans. on Power Syst.*, early access, 2026, [link](https://doi.org/10.1109/TPWRS.2026.3703614).
 - J. Yang, H. Ye, Q. Mou, **X. He**, Y. Liu, and H. Geng, “A saturated cross-forming control for stability enhancement of grid-forming inverters during grid fault recovery,” *IEEE Trans. Power Electron.*, early access, 2026, [link](https://doi.org/10.1109/TPEL.2026.3694514).
 - K. Zhuang, L. Huang, H. Xin, **X. He**, V. Häberle, and F. Dörfler, “Dispatchable Current Source Virtual Oscillator Control Achieving Global Stability,” *arXiv preprint*, 2025, [link](https://arxiv.org/abs/2510.26977).
-- K. Zhuang, H. Xin, V. Häberle, **X. He**, L. Huang, and F. Dörfler, “Quantifying Grid-Forming Behavior: Bridging Device-Level Dynamics and System-Level Strength,” *arXiv preprint*, 2025, [link](https://arxiv.org/abs/2510.26953).
+- K. Zhuang, H. Xin, V. Häberle, **X. He**, L. Huang, and F. Dörfler, “Quantifying Grid-Forming Behavior: Bridging Device-Level Dynamics and System-Level Strength,” *IEEE Trans. Power Syst.*, 2026, [link](https://ieeexplore.ieee.org/abstract/document/11724639/).
 - K. Zhuang, H. Xin, V. Häberle, **X. He**, L. Huang, and F. Dörfler, “Quantifying Grid-Forming Behavior: Bridging Device-level Dynamics and System-Level Stability,” arXiv preprint arXiv:2503.24152, 2025, [link](https://arxiv.org/abs/2503.24152).
 - M. Abdalmoaty, V. Häberle, **X. He**, and F. Dörfler, “Ultrafast Grid Impedance Identification in Asymmetric Three-Phase Power Systems,” *Electr. Power Syst. Res.*, in press, 2026, [link](https://arxiv.org/abs/2510.12338).
 - W. Schittek, N. Wiese, C. Hachmann, **X. He**, J. Heid, J. Ferry, and M. Braun, “How to Tailor Power-Electronic Inertia to the Constraints of its Resource,” *IEEE Open Access J. Power Energ.*, early access, 2026, [link](https://doi.org/10.1109/OAJPE.2026.3698147).
@@ -49,9 +52,9 @@ title: Publications
 - **X. He** and H. Geng, “Synchronization stability analysis and enhancement of grid-tied multiconverter systems,” in *2020 IEEE Industry Applications Society Annual Meeting (IAS 2020)*, 2020, pp. 1–8, [link](https://doi.org/10.1109/IAS44978.2020.9334711).
 - **X. He**, H. Geng, and G. Yang, “Synchronization stability analysis of grid-tied power converters under severe grid voltage sags,” in *2018 IEEE International Power Electronics and Application Conference and Exposition (PEAC 2018)*, 2018, pp. 1–6, [link](https://doi.org/10.1109/PEAC.2018.8590280). (Excellent Paper Award)
 
-### Topic: Lunar Surface DC Microgrid Networks
+### Topic: DC Microgrid Networks
 - S. Jiang, Z. Sun, J. Zhang, M. Zhang, C. Tang, **X. He**, and H. Geng, “A Graph-Theoretic Approach for Ensuring Stability in DC Microgrid Networks During Mode Switching,” *IEEE Trans. Smart Grid*, vol. 17, no. 2, pp. 922–935, 2026. [link](https://doi.org/10.1109/TSG.2025.3631473).
-- Z. Sun, **X. He**, S. Jiang, X. Peng, J. Zhang, and H. Geng, “Quantifying power disturbance tolerance to guarantee voltage security in dc microgrids,” *IEEE Trans. Smart Grid*, early access, 2026, [link](https://doi.org/10.1109/TSG.2026.3684774).
+- Z. Sun, **X. He**, S. Jiang, X. Peng, J. Zhang, and H. Geng, “Quantifying Power Disturbance Tolerance to Guarantee Voltage Security in DC Microgrids,” *IEEE Trans. Smart Grid*, vol. 17, no. 4, pp. 3613–3616, 2026, [link](https://ieeexplore.ieee.org/document/11483135/).
 
 ### Topic: Dynamic Ancillary Services of Inverter-Based Resources
 
