@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/index.html
 title: Talks
 ---
-
+- ICIPS 2026, *Multivariable grid-forming control and nonlinear stability analysis*,, *Quantifying Stability Conditions for Grid-Forming and Grid-Following Heterogeneous Power Systems*, [slides](https://xiuq-he.github.io/files/slides/ICIPS2026_Xiuqiang_en.pdf), Oct. 2026, Dalian, China.
 - The Fourth Champéry Power Conference, *Quantifying Stability Conditions for Grid-Forming and Grid-Following Heterogeneous Power Systems*, [slides](https://xiuq-he.github.io/files/slides/Champery2026_Xiuqiang_final.pdf), Febuary 2026, Champéry, Switzerland.
 - 合肥工业大学 (Hefei University of Technology) / 上海交通大学 (Shanghai Jiao Tong University), 《新能源系统的构网控制与分散式稳定分析》, [slides](https://xiuq-he.github.io/files/slides/HUT-lecture2026_Xiuqiang.pdf), January 2026, China.
 - 2025/2026年构网变流器原理控制技术与需求应用设计高级研讨班, 《构网型变流器暂态运行及稳定控制》, [slides](https://xiuq-he.github.io/files/slides/CPSS-lecture2026_Xiuqiang_final.pdf), November 2025 / May 2026, Shanghai, China.

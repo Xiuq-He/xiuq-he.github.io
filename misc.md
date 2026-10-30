@@ -6,9 +6,12 @@ title: Misc.
 
 ### Supervision
 
+- **Bachlor's Project:** Black-start control of ESS-free grid-forming PVs, Jiajun Yu, Fall 2026.
+- **Bachlor's Project:** Dispatchable VOC control for current-forming inverters, Shangmin Xie, Fall 2026.
+- **Master's Project:** Policy gradient adaptive control for power systems with grid-forming converters, Alberto De Luca (visiting student from ETH Zurich), co-supervised with Feiran Zhao (ETH Zurich), Fall 2026.
 - **PhD Project:** Control of dynamic virtual power plants, Verena Häberle, co-supervised with Dr. Linbin Huang, Prof. Eduardo Prieto-Araujo, and Prof. Florian Dörfler, 2022 – 2025.
-- **Master Project:** Complex frequency control of dynamic virtual power plants, Roger Domingo-Enrich, co-supervised with Verena Häberle, Spring 2023.
 - **Semester Project:** Grid code validation of cross-forming controlled converters under current limitation, Ramona Stoll, co-supervised with Maitraya Avadhut Desai, Fall 2024.
+- **Master's Project:** Complex frequency control of dynamic virtual power plants, Roger Domingo-Enrich, co-supervised with Verena Häberle, Spring 2023.
 - **Semester Project:** Aggregated modeling of grid-forming converters with complex droop control, Martin Pedersen, co-supervised with Verena Häberle, Spring 2023.
 - **Semester Project:** Stable current-limiting control for grid-forming converters, Maitraya Avadhut Desai, co-supervised with Linbin Huang, Fall 2022.
 
