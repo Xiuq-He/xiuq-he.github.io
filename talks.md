@@ -3,7 +3,7 @@ layout: page
 permalink: /talks/index.html
 title: Talks
 ---
-- ICIPS 2026, *Multivariable grid-forming control and nonlinear stability analysis*,, *Quantifying Stability Conditions for Grid-Forming and Grid-Following Heterogeneous Power Systems*, [slides](https://xiuq-he.github.io/files/slides/ICIPS2026_Xiuqiang_en.pdf), Oct. 2026, Dalian, China.
+- ICIPS 2026, *Decentralized Stability Analysis of Heterogeneous Power-Electronics-Dominated Power Systems: Framework, Methods and Applications*, [slides](https://xiuq-he.github.io/files/slides/ICIPS2026_Xiuqiang_en.pdf), Oct. 2026, Dalian, China.
 - The Fourth Champéry Power Conference, *Quantifying Stability Conditions for Grid-Forming and Grid-Following Heterogeneous Power Systems*, [slides](https://xiuq-he.github.io/files/slides/Champery2026_Xiuqiang_final.pdf), Febuary 2026, Champéry, Switzerland.
 - 合肥工业大学 (Hefei University of Technology) / 上海交通大学 (Shanghai Jiao Tong University), 《新能源系统的构网控制与分散式稳定分析》, [slides](https://xiuq-he.github.io/files/slides/HUT-lecture2026_Xiuqiang.pdf), January 2026, China.
 - 2025/2026年构网变流器原理控制技术与需求应用设计高级研讨班, 《构网型变流器暂态运行及稳定控制》, [slides](https://xiuq-he.github.io/files/slides/CPSS-lecture2026_Xiuqiang_final.pdf), November 2025 / May 2026, Shanghai, China.
@@ -11,9 +11,9 @@ title: Talks
 - IECON 2024, *Dynamic complex-frequency control of grid-forming converters*, [slides](https://xiuq-he.github.io/files/slides/IECON2024_Xiuqiang_final.pdf), Nov. 2024, Chicago, USA.
 - Invited talk at EirGrid, *Grid-forming, grid-following, and cross-forming controls*, [slides](https://xiuq-he.github.io/files/slides/EirGrid2024_Xiuqiang_final.pdf), Aug. 2024, remote.
 - The Third Champéry Power Conference, *Stability guarantees for grid-forming complex droop control*, [slides](https://champery.control.ee.ethz.ch/program), Feb. 2024, Champéry, Switzerland.
-- Invited talk at the 9th Workshop of Power Electronics Emerging Technologies, *Multivariable grid-forming control and nonlinear stability analysis*, [slides](https://www.researchgate.net/publication/375187051_duobianlianggouwangkongzhiyufeixianxingwendingfenxi), Oct. 2023, Nanjing, remote talk.
+- The 9th Workshop of Power Electronics Emerging Technologies, *Multivariable grid-forming control and nonlinear stability analysis*, [slides](https://www.researchgate.net/publication/375187051_duobianlianggouwangkongzhiyufeixianxingwendingfenxi), Oct. 2023, Nanjing, remote talk.
 - ETH IFA coffee talk, *Multivariable stability of converter-based power systems: Centralized and decentralized methods*, [slides](https://www.researchgate.net/publication/375186956_Multivariable_Stability_Analysis_of_Converter-Based_Power_Systems_Centralized_and_Decentralized_Methods), Apr. 2023, ETH Zurich.
-- Invited session talk at IEEE SPIES 2022, *Complex-frequency synchronization and multivariable stability analysis*, Dec. 2022, remote.
+- IEEE SPIES 2022, *Complex-frequency synchronization and multivariable stability analysis*, Dec. 2022, remote.
 - Tutorial at IECON 2021, *Transient stability of power electronics-dominated power networks: Principle and application*, [slides](https://xiuq-he.github.io/files/slides/IECON2021_tutorial_Xiuqiang.pdf), Oct. 2021, remote.
 - IAS Annual Meeting 2020, *Synchronization stability analysis and enhancement of grid-tied multi-converter systems*, Oct. 2020, remote.
 - IEEE PESGM 2020, *Transient stability analysis and enhancement of renewable energy conversion system during LVRT*, Aug. 2020, remote.
