@@ -21,7 +21,7 @@ My research interests lie in smart energy and power systems, focusing on system 
 - B.S. in Automation, Tsinghua University, 2016
 
 ### News and Updates
-
+- **November 2026:** I was elevated to the grade of IEEE Senior Member.
 - **October 2026:** Our tutorial paper on decentralized stability in power systems [Decentralized Stability Certificates for Interoperability in Power-Electronics-Dominated Power Systems](https://arxiv.org/abs/2610.26527) is available online.
 - **October 2026:** Our paper [Oscillation-Damping-Constrained Optimal Frequency Regulation for Power Systems with Heterogeneous Inverter-Based Resources](https://ieeexplore.ieee.org/abstract/document/11727598/) is accepted by MPCE.
 - **October 2026:** Our paper [Quantifying grid-forming behavior: Bridging device-level dynamics and system-level strength](https://ieeexplore.ieee.org/abstract/document/11724639/) is accepted by IEEE TPWRS.
